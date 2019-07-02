@@ -1,5 +1,5 @@
 {
-  "name": "Years_Generate_queue",
+  "name": "Generate_queue",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
